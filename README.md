@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working at [Pivotree](https://www.pivotree.com/)
 
-- 🌱 I’m currently learning **NextJS and React Native**
-
 - 📫 How to reach me **ewbankmarcos@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
